@@ -25,3 +25,12 @@
     ![img](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white&link=#)
     <br />
     ![img](https://echo-admin-nine.vercel.app/api/track/github.svg)
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=alzkdpf&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/alzkdpf"
+  width="600"
+  height="300"
+/>
+</a>
